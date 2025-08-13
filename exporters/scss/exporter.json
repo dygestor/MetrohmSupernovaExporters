@@ -1,0 +1,18 @@
+{
+    "id": "metrohm.exporter-scss",
+    "name": "Metrohm SCSS",
+    "description": "Export Metrohm design tokens into SCSS variables and definitions.",
+    "author": "Jan Hledik",
+    "organization": "Metrohm",
+    "homepage": "https://metrohm.com",
+    "version": "1.0.0",
+    "usesBrands": true,
+    "usesThemes": true,
+    "executable": "/dist/build.js",
+    "engine": "latest",
+    "tags": [
+        "SCSS",
+        "Tokens",
+        "New"
+    ]
+}
